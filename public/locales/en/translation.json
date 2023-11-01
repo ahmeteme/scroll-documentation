@@ -152,6 +152,16 @@
       "additionalResources": "Additional Resources"
     }
   },
+  "rpcTable": {
+    "rpcServerAddress": "RPC Server Address",
+    "height": "Height",
+    "latency": "Latency",
+    "score": "Score",
+    "privacy": "Privacy",
+    "addNetwork": "Add Network",
+    "connect": "Connect",
+    "sorting": "Sorting"
+  },
   "notTranslated": {
     "notTranslated": "This page has not been translated yet."
   }
